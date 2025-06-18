@@ -1,6 +1,6 @@
 <?php
 // Display a welcome message
-echo "<h1>Welcome to My Jamer PHP Page</h1>";
+echo "<h1>Welcome to My Test PHP Page</h1>";
 
 // Display the current date and time
 echo "<p>Current Date and Time: " . date("Y-m-d H:i:s") . "</p>";
